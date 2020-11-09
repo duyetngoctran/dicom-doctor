@@ -1,5 +1,5 @@
 # dicom-doctor
-> Dicom viewr using React, Cornerstone.
+> Dicom viewer using React, Redux And Cornerstone.
 Live Demo https://dicom-954df.web.app/
 
 # dicom-doctor
